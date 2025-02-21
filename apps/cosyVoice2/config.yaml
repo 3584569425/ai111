@@ -1,0 +1,5 @@
+name: cosyVoice2
+type: cli
+version: 1.0.0
+description: CosyVoice迎来全面升级，提供更准、更稳、更快、 更好的语音生成
+status: not_installed
